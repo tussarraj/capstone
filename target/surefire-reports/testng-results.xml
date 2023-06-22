@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T12:25:56 IST" name="Suite" finished-at="2023-06-21T12:28:54 IST" duration-ms="178070">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T12:25:56 IST" name="Test" finished-at="2023-06-21T12:28:54 IST" duration-ms="178070">
+      <class name="com.automationexercise.testcase.TestCaseRegister01">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.testcase.TestCaseRegister01@2a54a73f]" started-at="2023-06-21T12:27:09 IST" name="setup" finished-at="2023-06-21T12:27:20 IST" duration-ms="11331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerUser()[pri:0, instance:com.automationexercise.testcase.TestCaseRegister01@2a54a73f]" started-at="2023-06-21T12:27:20 IST" name="registerUser" finished-at="2023-06-21T12:27:47 IST" duration-ms="27498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testcase.TestCaseRegister01@2a54a73f]" started-at="2023-06-21T12:27:47 IST" name="tearDown" finished-at="2023-06-21T12:27:49 IST" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.testcase.TestCaseRegister01 -->
+      <class name="com.automationexercise.testcase.TestCaseLogin02">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.testcase.TestCaseLogin02@71238fc2]" started-at="2023-06-21T12:26:43 IST" name="setup" finished-at="2023-06-21T12:26:54 IST" duration-ms="10808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginUserWithCorrectEmailAndPassword()[pri:0, instance:com.automationexercise.testcase.TestCaseLogin02@71238fc2]" started-at="2023-06-21T12:26:54 IST" name="loginUserWithCorrectEmailAndPassword" finished-at="2023-06-21T12:27:07 IST" duration-ms="13164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserWithCorrectEmailAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testcase.TestCaseLogin02@71238fc2]" started-at="2023-06-21T12:27:07 IST" name="tearDown" finished-at="2023-06-21T12:27:09 IST" duration-ms="1595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.testcase.TestCaseLogin02 -->
+      <class name="com.automationexercise.testcase.TestCaseAddReview06">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.testcase.TestCaseAddReview06@16a0ee18]" started-at="2023-06-21T12:27:49 IST" name="setup" finished-at="2023-06-21T12:28:15 IST" duration-ms="26184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addReviewOnProduct()[pri:0, instance:com.automationexercise.testcase.TestCaseAddReview06@16a0ee18]" started-at="2023-06-21T12:28:15 IST" name="addReviewOnProduct" finished-at="2023-06-21T12:28:19 IST" duration-ms="4145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReviewOnProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testcase.TestCaseAddReview06@16a0ee18]" started-at="2023-06-21T12:28:19 IST" name="tearDown" finished-at="2023-06-21T12:28:21 IST" duration-ms="1477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.testcase.TestCaseAddReview06 -->
+      <class name="com.automationexercise.testcase.TestCaseSearchProduct05">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.testcase.TestCaseSearchProduct05@662b4c69]" started-at="2023-06-21T12:25:56 IST" name="setup" finished-at="2023-06-21T12:26:16 IST" duration-ms="19566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchProduct()[pri:0, instance:com.automationexercise.testcase.TestCaseSearchProduct05@662b4c69]" started-at="2023-06-21T12:26:16 IST" name="searchProduct" finished-at="2023-06-21T12:26:22 IST" duration-ms="6650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testcase.TestCaseSearchProduct05@662b4c69]" started-at="2023-06-21T12:26:22 IST" name="tearDown" finished-at="2023-06-21T12:26:24 IST" duration-ms="1702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.testcase.TestCaseSearchProduct05 -->
+      <class name="com.automationexercise.testcase.TestCaseIncorrectLogin03">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.testcase.TestCaseIncorrectLogin03@fa49800]" started-at="2023-06-21T12:26:24 IST" name="setup" finished-at="2023-06-21T12:26:38 IST" duration-ms="14526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginUserWithIncorrectEmailAndPassword()[pri:0, instance:com.automationexercise.testcase.TestCaseIncorrectLogin03@fa49800]" started-at="2023-06-21T12:26:38 IST" name="loginUserWithIncorrectEmailAndPassword" finished-at="2023-06-21T12:26:41 IST" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserWithIncorrectEmailAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testcase.TestCaseIncorrectLogin03@fa49800]" started-at="2023-06-21T12:26:41 IST" name="tearDown" finished-at="2023-06-21T12:26:43 IST" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.testcase.TestCaseIncorrectLogin03 -->
+      <class name="com.automationexercise.testcase.TestCaseRemoveProduct04">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.testcase.TestCaseRemoveProduct04@3d6f0054]" started-at="2023-06-21T12:28:21 IST" name="setup" finished-at="2023-06-21T12:28:46 IST" duration-ms="25420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeProductsFromCart()[pri:0, instance:com.automationexercise.testcase.TestCaseRemoveProduct04@3d6f0054]" started-at="2023-06-21T12:28:46 IST" name="removeProductsFromCart" finished-at="2023-06-21T12:28:53 IST" duration-ms="6722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProductsFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.testcase.TestCaseRemoveProduct04@3d6f0054]" started-at="2023-06-21T12:28:53 IST" name="tearDown" finished-at="2023-06-21T12:28:54 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.testcase.TestCaseRemoveProduct04 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
